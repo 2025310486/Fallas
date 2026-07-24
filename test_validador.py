@@ -1,4 +1,4 @@
-#Paso 1 (Erick Froylan Pineda Aguillon)
+#Persona 1 (Erick Froylan Pineda Aguillon)
 import pytest
 from validador import es_password_valida
 
